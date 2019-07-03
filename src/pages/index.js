@@ -17,10 +17,13 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Hospitality Tribe"
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'THE definitive hospitality services and training group. ' +
+                        'Created by hospitality professionals, for hospitality professionals. Let us manage all your data entry, ' + 
+                        ' training, and event needs. '},
+
+                        { name: 'keywords', content: 'Amadeus, Delphi, delphi.fdc, Maestro, Square, Concur.' },
                     ]}
                 >
                 </Helmet>
@@ -31,22 +34,22 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>ABOUT</h3>
+                                <p>Who we are & what we do</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Tempus</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>CONSULTING SERVICES</h3>
+                                <p>Let us get your hotel opening or system migration running smoothly</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>TRAINING & EDUCATION</h3>
+                                <p>Using a new property management system? Chances are, we've got the expertise. </p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -57,7 +60,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage: `url(${pic05})`}}>
+                        {/* <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>Consequat</h3>
                                 <p>Ipsum dolor sit amet</p>
@@ -70,7 +73,7 @@ class HomeIndex extends React.Component {
                                 <p>Feugiat amet tempus</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
-                        </article>
+                        </article> */}
                     </section>
                     <section id="two">
                         <div className="inner">
