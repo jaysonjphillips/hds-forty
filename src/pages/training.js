@@ -28,4 +28,4 @@ const Training = (props) => (
     </Layout>
 )
 
-export default Generic
+export default Training
