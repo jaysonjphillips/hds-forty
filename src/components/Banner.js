@@ -7,13 +7,11 @@ const Banner = (props) => (
                 <h1>HOSPITALITY TRIBE</h1>
             </header>
             <div className="content">
-                <p>Founded in 2019, we have over 20 collective years of experience <br />
-                in hospitality management across sales, catering, event management,<br />
+                <p>Founded in 2019, we have over 20 collective years of experience 
+                in hospitality management across sales, catering, event management,
                  restaurants, property management and systems training. 
                 </p>
-                <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
-                </ul>
+
             </div>
         </div>
     </section>

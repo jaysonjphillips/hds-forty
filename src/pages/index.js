@@ -37,28 +37,27 @@ class HomeIndex extends React.Component {
                                 <h3>ABOUT</h3>
                                 <p>Who we are & what we do</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/about" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>CONSULTING SERVICES</h3>
                                 <p>Let us get your hotel opening or system migration running smoothly</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/consulting" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>TRAINING & EDUCATION</h3>
                                 <p>Using a new property management system? Chances are, we've got the expertise. </p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/training" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>COMMUNITY</h3>
+                                <p>Coming soon: a place to network, share and discuss with your fellow industry colleagues.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
                         </article>
                         {/* <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
