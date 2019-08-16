@@ -18,3 +18,13 @@ collections:
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
       - { name: category, label: Category, widget: string }
+
+  - name: page
+    label: Pages
+    folder: src/content/pages
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
+      - { name: category, label: Category, widget: string }
