@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerLanding from '../components/PageBanner'
+import PageBanner from '../components/PageBanner'
 import pic11 from '../assets/images/pic11.jpg'
 
 
@@ -18,15 +18,11 @@ export default function Template({
             <meta name="description" content="" />
         </Helmet>
 
-        <PageBanner />
+        <PageBanner title={frontmatter.title} image={pic11}/>
 
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
-                    <header className="major">
-                        <h1>{frontmatter.title}</h1>
-                    </header>
-                    <span className="image main"><img src={pic11} alt="" /></span>
                     <div 
                         className="blog-post-content"
                         dangerouslySetInnerHTML={{ __html: html }}></div>
