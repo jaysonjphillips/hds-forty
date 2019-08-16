@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerLanding from '../components/BannerLanding'
+import BannerLanding from '../components/PageBanner'
 import pic11 from '../assets/images/pic11.jpg'
 
 
@@ -17,6 +17,8 @@ export default function Template({
             <title>Hospitality Tribe</title>
             <meta name="description" content="" />
         </Helmet>
+
+        <PageBanner />
 
         <div id="main" className="alt">
             <section id="one">
