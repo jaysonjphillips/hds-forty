@@ -35,7 +35,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
                                 <h3>ABOUT</h3>
-                                <p>Who we are & what we do</p>
+                                <p>Industry focused and forward thinking, Hospitality Tribe is a collective distinguished by our unyielding dedication to hospitality professionals. In 2019, we set forth a mission to provide support, training and resources to make you the very best, for yourself, your guests, and for the next generation of hoteliers and restaurateurs. Welcome to the tribe.</p>
                             </header>
                             <Link to="/about" className="link primary"></Link>
                         </article>

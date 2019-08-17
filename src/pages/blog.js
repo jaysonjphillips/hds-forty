@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerLanding from '../components/BannerLanding'
+import PageBanner from '../components/PageBanner'
 import PostLink from "../components/PostLink"
 
 import pic08 from '../assets/images/pic08.jpg'
@@ -18,11 +18,11 @@ const BlogPage = ({
   return (
     <Layout>
         <Helmet>
-            <title>Landing - Forty by HTML5 UP</title>
+            <title>Hospitality Tribe - The Blog</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
-        <BannerLanding />
+        <PageBanner title={`The Blog`} />
 
         <div id="main">
             <section id="one">
