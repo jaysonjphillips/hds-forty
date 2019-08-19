@@ -3,7 +3,7 @@ path: /training
 title: Training & Education
 category: Pages
 ---
-Our skilled tribe can provide one on one training in the following areas:
+Your system, our expertise, let Hospitality Tribe get you on the right track. Our skilled tribe can provide one on one training in the following areas:
 
 Group / BT Sales
 
