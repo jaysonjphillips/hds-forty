@@ -1,16 +1,24 @@
 ---
 path: /training
-title: Training & Education
+title: Share Knowledge
 category: Pages
 ---
-Your system, our expertise, let Hospitality Tribe get you on the right track. Our skilled tribe can provide one on one training in the following areas:
+Leveraging the experience and expertise of top hospitality professionals, we will help you build practical skills you can use now. Embark on your self-guided learning journey through targeted on-demand webinars. We will provide you access to resources and mentors to help guide you along the way. 
 
-Group / BT Sales
+Keeping up with the industry beat (pulse? Rhythm? )*: course content is organized and delivered by tenured and innovative industry professionals.  
 
-Revenue management 
+\*newsletter / e-marketing
 
-Catering sales
 
-Convention services 
 
-Delphi
+Course offerings
+
+Course offerings include catering, convention services, business transient, food and beverage and revenue management. 
+
+
+
+Courses organized by department? (Front office, Sales, F&B, Revenue Management, Hotel Management)
+
+
+
+Join us!
