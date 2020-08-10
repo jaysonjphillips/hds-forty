@@ -9,7 +9,8 @@ Delivering cost effective services when you need them, our experts specialize in
 
 * Delphi, ASEMA, CITY, TripleSeat
 * Salesforce Administration
-* Remote Sales & Catering Management
+* Menu Entry, Merge Document Creation & Report Writing
+* Remote Sales & Catering Software Management
 * Website Design, Development and Maintenance
 
 ### Training & Education
