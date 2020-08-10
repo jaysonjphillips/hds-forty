@@ -6,14 +6,11 @@ category: Pages
 Delivering cost effective services when you need them, our experts specialize in:
 
 ### Delphi Services
-
 * Remote Delphi & Salesforce Management
-* Menu Entry, Merge Document Management, Report Writing
-* Remote Sales and Catering System Delphi / Salesforce Management
-* Website Design, Development and Maintenance
+* Menu Entry, Merge Document Management
+* Reporting
 
 ### Training & Education
-
 * Tailored education and content 
 * Training (remote and onsite)
 * Adhoc sales and catering software training  
@@ -36,6 +33,5 @@ We also provide remote and onsite task force sales and administrative consultant
 * Coordinators
 
 #### Our skills
-
 * DELPHI, MARSHA, ONQ, OPERA, MICROS, SALESFORCE, Group Sales (all markets), Business Transient Sales, Contracting, BEO Creation and Execution
 * Restaurant Services
