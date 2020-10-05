@@ -1,29 +1,25 @@
 ---
 path: /consulting
-title: Consulting
+title: Consulting and Services
 category: Pages
 ---
-Delivering cost effective services when you need them, our experts specialize in:
+Delivering cost effective services when you need them.
 
-### Technology Services
+### Services
 
-* Delphi, ASEMA, CITY, TripleSeat
-* Salesforce Administration
-* Menu Entry, Merge Document Creation & Report Writing
 * Remote Sales & Catering Software Management
+* Menu Entry, Merge Document Creation & Report Writing
+* Salesforce Administration
 * Website Design, Development and Maintenance
 
 ### Training & Education
 
-* Tailored education and content 
-* Training (remote and onsite)
-* Adhoc sales and catering software training  
-* One on one hospitality sales and software training
+* Customized Sales and Catering Software Training 
+  * New Users, Special Skills and Refresh Training
 * Tailored hotel or brand specific proprietary education and content (secure)
 
-### Hotel Task Force
 
-Make Hospitality Tribe an extension of your team, relax and stay in control of your top line revenue as we work on your behalf. We also provide remote and onsite task force sales and administrative consultants to independent and branded across the country. Keep your team in top performance shape and provide your tribe with support during times of transition. 
+Make Hospitality Tribe an extension of your team and stay in control of your top line revenue. Keep your team and property in top performance shape, and provide your tribe with support during pre-opening, budget constraints and times of transition. We provide remote and onsite task force sales and administrative consultants to independent and branded properties across the country.  
 
 #### Positions we cover:
 
@@ -35,6 +31,9 @@ Make Hospitality Tribe an extension of your team, relax and stay in control of y
 * Convention Services Manager
 * Revenue Manager
 * Coordinators
+* Property Administrator
+* Corporate Administrator
+
 
 #### Our skills
 
