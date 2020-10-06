@@ -14,10 +14,9 @@ Delivering cost effective services when you need them.
 
 ### Training & Education
 
-* Customized Sales and Catering Software Training 
-  * New Users, Special Skills and Refresh Training
+* Customized Sales and Catering Software Training
+* New Users, Special Skills and Refresh Training
 * Tailored hotel or brand specific proprietary education and content (secure)
-
 
 Make Hospitality Tribe an extension of your team and stay in control of your top line revenue. Keep your team and property in top performance shape, and provide your tribe with support during pre-opening, budget constraints and times of transition. We provide remote and onsite task force sales and administrative consultants to independent and branded properties across the country.  
 
@@ -33,7 +32,6 @@ Make Hospitality Tribe an extension of your team and stay in control of your top
 * Coordinators
 * Property Administrator
 * Corporate Administrator
-
 
 #### Our skills
 
