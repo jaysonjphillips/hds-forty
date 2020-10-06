@@ -9,7 +9,7 @@ We are problem solvers, hospitality leaders, engineers, designers and travelers.
 
 Our solutions create IMPACT
 
-&nbsp; &nbsp; &nbsp; &nbsp;Intentional\
+&nbsp; &nbsp; &nbsp; Intentional\
 &nbsp; &nbsp; &nbsp; &nbsp; Measureable \
 &nbsp; &nbsp; &nbsp; &nbsp; Practical\
 &nbsp; &nbsp; &nbsp; &nbsp; Actionable\
